@@ -17,7 +17,7 @@ It provides a simple yet effective interface to add, update, track, and complete
 
 ## 🛠️ Technologies Used
 - **Programming Language:** Python  
-- **Libraries:** (s, e.g., `Tkinter`, `pandas`, `sqlite3`)  
+- **Libraries:** (, e.g., `Tkinter`, `pandas`, `sqlite3`)  
 - **Database:**  SQLite  
 
 ---
